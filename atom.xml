@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>TrainerPikachu的空间</title>
+  <icon>http://trainerpikachu.github.io/icon.png</icon>
+  
+  <link href="http://trainerpikachu.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://trainerpikachu.github.io/"/>
+  <updated>2025-11-18T08:24:23.702Z</updated>
+  <id>http://trainerpikachu.github.io/</id>
+  
+  <author>
+    <name>TrainerPikachu</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>从国内主流软件设计说下去</title>
+    <link href="http://trainerpikachu.github.io/2025/11/18/%E4%BB%8E%E5%9B%BD%E5%86%85%E4%B8%BB%E6%B5%81%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E8%AF%B4%E4%B8%8B%E5%8E%BB/"/>
+    <id>http://trainerpikachu.github.io/2025/11/18/%E4%BB%8E%E5%9B%BD%E5%86%85%E4%B8%BB%E6%B5%81%E8%BD%AF%E4%BB%B6%E8%AE%BE%E8%AE%A1%E8%AF%B4%E4%B8%8B%E5%8E%BB/</id>
+    <published>2025-11-18T05:00:00.000Z</published>
+    <updated>2025-11-18T08:24:23.702Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;关于“赛博洁癖”的一些事。&lt;/p&gt;</summary>
+    
+    
+    
+    
+    <category term="杂谈" scheme="http://trainerpikachu.github.io/tags/%E6%9D%82%E8%B0%88/"/>
+    
+  </entry>
+  
+</feed>
