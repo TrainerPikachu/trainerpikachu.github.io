@@ -1,0 +1,16 @@
+{% extends "base.html" %} {% block content %} {% for article in
+articles_page.object_list %}
+<article>
+  {% set global_rev_index = articles_page.paginator.count -
+  (articles_page.start_index() + loop.index0) + 1 %}
+  <span class="seq-number">{{ "%02d" | format(global_rev_index) }}.</span>
+
+  <h2><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h2>
+
+  <time>{{ article.date.strftime('%y.%m.%d') }}</time>
+</article>
+{% endfor %} {% if articles_page.has_next() %}
+<div class="pagination">
+  <a href="{{ articles_page.next_page_number() }}">next</a>
+</div>
+{% endif %} {% endblock %}

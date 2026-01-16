@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="description" content="Ron Hong's Digital Garden." />
+    <title>{% block title %}Ron Hong{% endblock %}</title>
+
+    <style>
+      {% include 'style.css' %}
+    </style>
+  </head>
+  <body>
+    <main>
+      {% if article %}
+      <h1>{{ article.title }}</h1>
+
+      {% elif page %}
+      <h1>{{ page.title }}</h1>
+
+      {% else %}
+      <h1>Ron Hong</h1>
+
+      {% endif %}
+      <p>-</p>
+      <nav>{% block content %} {% endblock %}</nav>
+    </main>
+    <footer>
+      {% if output_file == 'index.html' %}
+      <p><a href="{{ SITEURL }}/about.html">About</a></p>
+      {% else %}
+      <p><a href="{{ SITEURL }}/">../</a></p>
+      {% endif %}
+    </footer>
+  </body>
+</html>
