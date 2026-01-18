@@ -9,7 +9,7 @@ Me:  An Undergraduate student based in Canada.
 
 
 
-This blog: Aim to exploring the minimalism web design. Inspired by [William Jansson](https://williamjansson.com/)
+This blog: Inspired by [William Jansson](https://williamjansson.com/), aim for the minimalism web design. 
 
 -
 
