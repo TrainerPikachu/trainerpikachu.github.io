@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10 books I recommend (Chinese).md",
+                "file": "My 2026 Goal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 books I recommend (Chinese)"
+              "title": "My 2026 Goal"
             }
           }
         ]
@@ -187,9 +187,9 @@
   },
   "active": "70949f6595481b63",
   "lastOpenFiles": [
-    "My 2026 Goal.md",
     "10 books I recommend (Chinese).md",
     "论为什么我们学的越多，知道的越少.md",
+    "My 2026 Goal.md",
     "tset.md"
   ]
 }
