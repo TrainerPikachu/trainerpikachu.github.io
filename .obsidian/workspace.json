@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My 2026 Goal.md",
+                "file": "content/test02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "My 2026 Goal"
+              "title": "test02"
             }
           }
         ]
@@ -185,11 +185,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70949f6595481b63",
+  "active": "2a166b7865cb8692",
   "lastOpenFiles": [
+    "content/test.md",
+    "content/test02.md",
+    "content/Untitled.md",
+    "Templates/Post.md",
+    "test.md",
+    "Post.md",
+    "My 2026 Goal.md",
     "10 books I recommend (Chinese).md",
     "论为什么我们学的越多，知道的越少.md",
-    "My 2026 Goal.md",
     "tset.md"
   ]
 }

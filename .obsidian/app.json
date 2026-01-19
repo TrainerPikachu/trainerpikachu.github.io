@@ -1,0 +1,7 @@
+{
+  "userIgnoreFilters": [
+    "__pycache__/",
+    "output/",
+    "pelican-themes/"
+  ]
+}
