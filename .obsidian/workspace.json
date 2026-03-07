@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "雨.md",
+                "file": "content/雨.md",
                 "mode": "source",
                 "source": false
               },
@@ -185,10 +185,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70949f6595481b63",
+  "active": "2a166b7865cb8692",
   "lastOpenFiles": [
     "content/test02.md",
-    "雨.md",
+    "content/雨.md",
     "content/test.md",
     "Templates/Post.md",
     "content/Untitled.md",
