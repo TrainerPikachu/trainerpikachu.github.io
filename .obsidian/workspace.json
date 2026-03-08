@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/test02.md",
+                "file": "content/雨.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test02"
+              "title": "雨"
             }
           }
         ]
@@ -187,9 +187,9 @@
   },
   "active": "70949f6595481b63",
   "lastOpenFiles": [
+    "content/My 2026 Goal.md",
     "content/test.md",
     "content/test02.md",
-    "content/My 2026 Goal.md",
     "content/雨.md",
     "content/10 books I recommend (Chinese).md",
     "content/论为什么我们学的越多，知道的越少.md",

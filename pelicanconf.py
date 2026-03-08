@@ -36,7 +36,7 @@ DEFAULT_PAGINATION = 10
 THEME = "themes/zen"
 # THEME = "themes/test01"
 # THEME = "pelican-themes/mnmlist"
-PLUGINS = ['render_math']
+# PLUGINS = ['render_math']
 
 # Disable pages
 AUTHOR_SAVE_AS = ''
