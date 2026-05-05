@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/Memories.md",
+                "file": "content/孤独.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Memories"
+              "title": "孤独"
             }
           }
         ],
@@ -202,8 +202,8 @@
   },
   "active": "4b3caeb2d98a01a8",
   "lastOpenFiles": [
-    "content/味.md",
     "content/Memories.md",
+    "content/味.md",
     "content/雨.md",
     "未命名.md",
     "content/孤独.md",
