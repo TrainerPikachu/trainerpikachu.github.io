@@ -5,12 +5,10 @@ Category: life
 ---
 Here is my [Less,More](https://williamjansson.com/posts/less_more_3/) list for 2026 Q3. 
 
-Less: 
-
+Less:
 * Overthinking
 * *Daydreaming
   
-More: 
-
+More:
 - Scheduling
 - eating
